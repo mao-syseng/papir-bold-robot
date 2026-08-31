@@ -18,3 +18,6 @@ Eksempler på hvad den ville kunne:
 ## Spørgsmål
 - find ud af setup for at animere bolden. snor vs pinde til en servo? 
 
+
+## Teknisk
+Seeed studio xiao rp2040 get started guide: https://wiki.seeedstudio.com/XIAO-RP2040-with-MicroPython/
