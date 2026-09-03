@@ -5,6 +5,7 @@
 - 1 snor fra bunden og 1 fra toppen, sidder til en sg90 servo. Servoen kan så hive i snoren for at bevæge den op og ned. Måske skal bruge pinde i stedet for snor alt efter hvor springy den er.
 - 1 piezo buzzer til at snakke
 - 1 pi pico til at styre det
+- eyelets eller grommets til at sætte fast i papiret så vægten snoren bliver spredt ud og ikke ødelægger papir så nemt
 
 
 pico skal snakke med en computer som køre en lokal llm agent som har tools til at styre piezo buzzer og servo. Tænker den kan animere den og bestemme lyde.
